@@ -1,0 +1,6 @@
+pandas  #dataframe
+numpy    #mathoperation
+scikit-learn #converting into str to  num for machine (modules) working
+streamlit   #webapp
+lazypredict #default c;assification regression model providing
+matplotlib==3.5.2 #visual uses
